@@ -1,0 +1,68 @@
+@import url('https://fonts.googleapis.com/css2?family=Karla:wght@400;700&family=PT+Sans:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: PT Sans;
+}
+
+
+.bg {
+    height: 100%;
+    background-image: url(buttonmakerbg.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.heading {
+    padding: 60px;
+    font-family: PT Sans;
+    font-size: 48px;
+    font-weight: 800;
+}
+
+.input-label {
+    color: #3a3a3a;
+    font-family: PT Sans;
+    font-weight: bold;
+    text-transform: uppercase;
+    font-size: 18px;
+}
+
+.user-input {
+    width: 300px;
+    height: 40px;
+    border: 1px solid #7d7d7d;
+    border-radius: 0px;
+    padding-left: 12px;
+    
+}
+
+.apply-btn {
+    background-color: blue;
+    color: #fff;
+    font-weight: bold;
+    font-size: 18px;
+    text-transform: uppercase;
+    border-width: 0px;
+    border-style: solid;
+    border-radius: 0px;
+    padding: 10px 40px 10px 40px;
+}
+
+.card-bg-desgin {
+    background-color: #fff;
+    width: 400px;
+    height: 100%;
+    padding: 40px;
+    margin: 15px;
+    border-radius: 8px;
+    filter: drop-shadow(4px 4px 10px #696969);
+}
+
+.custom-btn {
+    margin-top: 30px;
+    margin-bottom: 28px;
+}
+
